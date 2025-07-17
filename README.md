@@ -1,2 +1,3 @@
 **个人用于记录FPGA学习过程，目前包括** <br>
-1、FPGA基础
+1、FPGA基础<br>
+2、VScode配置
